@@ -1,0 +1,5 @@
+放置路由器tmp下
+cd /tmp/
+opkg install .ipk
+--nodeps
+--force-depends
